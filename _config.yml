@@ -104,23 +104,15 @@ iLotus:
       url: /contact.html
       icon: fa fa-user
       class: none
-    - text: 博客源代码
-      url: https://github.com/Wyntau/wyntau.github.io
-      icon: fa fa-github-square
-      class: none
+
 
 #站点基础配置
-title: 自说Me话
-subTitle: I Say Me | 我说我自己 | 我说世界
-description: Wyntau's Individual Blog. 自说Me话,一个前端开发新手的网络记录,同喜欢网络,Linux,前端开发,爱折腾的人共同分享,记录折腾心得还有学习过程.
-keywords: Wyntau,Linux,Web,前端开发,自说Me话,ISayme,Internet
-url: http://isay.me
+title: 老老老赵赵赵
+subTitle: 自说自话
+description: 我还年轻
+keywords: 2050, 航天, CTO, 写文章
 
 author:
-  name : Wyntau
-  email: wyntau@outlook.com
-  github: Wyntau
-  twitter: Wyntau
-  douban: lwent
-  QQ: 83692901
-  weibo: leftupme
+  name : 赵新龙
+  email: 449791515@qq.com
+  公众号: 不能不讲理
