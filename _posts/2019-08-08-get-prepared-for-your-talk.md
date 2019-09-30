@@ -107,3 +107,5 @@ Metcalfe's law states the effect of a telecommunications network is proportional
 
 (⊙o⊙)
 
+此文首发于我的公众号<a href="https://mp.weixin.qq.com/s/-HtHoRXCUNtBqgt-G_MHTQ">不能不讲理</a>。
+

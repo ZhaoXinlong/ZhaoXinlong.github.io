@@ -121,3 +121,4 @@ OpenSSL 团队也在研究新的算法，以抵挡量子电脑破解，寻求在
 
 守护网络安全。在这条路上，他们执意前行，从未止步。
 
+此文首发于我的公众号<a href="https://mp.weixin.qq.com/s/vJglG8G9d03DHp0pLYrMrQ">不能不讲理</a>。

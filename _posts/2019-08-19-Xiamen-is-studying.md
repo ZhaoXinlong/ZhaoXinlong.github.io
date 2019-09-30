@@ -35,3 +35,5 @@ tags: [GTLC, TGO, 领导力]
 
 
 [点击查看现场图片直播](https://live.photoplus.cn/activity/live/pc/2351777/#/)
+
+此文首发于我的公众号<a href="https://mp.weixin.qq.com/s/tzOkdPYt9wELLNB0TSkSdQ">不能不讲理</a>。
