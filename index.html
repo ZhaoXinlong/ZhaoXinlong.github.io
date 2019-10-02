@@ -7,11 +7,22 @@ layout: default
         <h2>{{ site.subTitle }}</h2>
     </hgroup><!-- //violet-site -->
 </section>
-{% for rpost in site.posts limit:4 %}
+
+{% for rpost in site.posts limit:3 %}
+
 <article class="lotus-article">
-    <h3><a href="{{ rpost.url | relative_url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h3>
-    <p itemprop="description">{{ rpost.content }}</p>
+
+    <h3>
+        <a href="{{ rpost.url | relative_url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}
+        </a>
+    </h3>
+
+    <p itemprop="description">
+        {{ rpost.content }}
+    </p>
+
 </article>
+
 {% endfor %}
 <section class="lotus-double fn-clear">
     <article class="article article-first">

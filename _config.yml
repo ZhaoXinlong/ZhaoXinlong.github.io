@@ -43,8 +43,6 @@ permalink: /:year/:month/:title.html
 paginate_path: /page:num
 timezone: Asia/Beijing
 
-feed:
-  path: feed.xml
 
 quiet: false
 defaults:
