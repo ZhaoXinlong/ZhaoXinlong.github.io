@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TGO新会员培训
+title: TGO新会员培训之2019年10月18日
 pid: 2019101801
 tags: [培训]
 ---
