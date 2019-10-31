@@ -10,6 +10,15 @@ includes_dir: ./_includes
 # so comment out this until github used jekyll updated
 # collections: null
 
+
+# Automatically Excerpt. Not recommend.
+# Added on 2019-10-31
+# Please use <!-- more --> in the post to control excerpt accurately.
+auto_excerpt:
+  enable: true
+  length: 250
+
+
 # Handling Reading
 safe: false
 include: [".htaccess"]
