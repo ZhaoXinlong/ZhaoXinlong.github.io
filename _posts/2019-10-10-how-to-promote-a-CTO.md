@@ -6,6 +6,7 @@ tags: [CTO, 团队激励, 领导力, 产品]
 excerpt_separator: <!--more-->
 ---
 
+![](/uploads/2019/10/04-CTO.jpeg)
 
 我在做编辑的时候，策划过系列的漫画。因为种种原因，只做了两期。在[《CTO 不得不面对的 9 大困境》](https://mp.weixin.qq.com/s/Ke--QcB0vyRf2F-dFyTEqg)中，排在首位的就是团队培养难题。
 
