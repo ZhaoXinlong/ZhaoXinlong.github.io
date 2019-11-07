@@ -3,6 +3,7 @@ layout: post
 title: 为 300 人，忙 3 个月
 pid: 2019103101
 tags: [GTLC, CTO, 峰会]
+excerpt_separator: <!--more-->
 ---
 
 ![](/uploads/2019/10/01-blue-sky-and-white-cloud.jpg)
