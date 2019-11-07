@@ -3,6 +3,7 @@ layout: post
 title: 百胜难虑敌，三折乃良医——今年飞了 43 次之后的几点想法
 pid: 2019092901
 tags: [航旅纵横, 健康, 读书, 出差]
+excerpt_separator: <!--more-->
 ---
 
 ![](/uploads/2019/09/shanghai-street.jpeg)
