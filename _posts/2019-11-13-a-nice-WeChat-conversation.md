@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 话不多说，先上这张图。
 
-![图片](https://images.smcdn.cn/uNH5wo7abMAOqm1F/Screenshot_20191109_230941_com.twitter.android.jpg!thumbnail)
+![](/uploads/2019/11/01-screenshot-Twitter.jpg)
 
 这张图是我在前几天在刷 Twitter 的时候看到的。当时我觉得这个场景十分典型，就截屏保存了；也是因为我遇到过形形色色的微信沟通“车祸现场”，正好可以借机说说。
 
@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 
 我的个人微信现在有 4639 位好友，我主动加别人的好友和别人加我的好友都有。在微信沟通的礼仪方面，我也算是“见多识广”。
 
-![图片](https://images.smcdn.cn/sc1xdT0CS0wUiNq6/Screenshot_20191113_093535.jpg!thumbnail)
+![](/uploads/2019/11/02-WeChat-screenshot.jpg)
 
 如果说微信沟通的目的是交流和传递信息的话，一下的这些方式是最低效的、背离目的的，都是被我讨厌的，可以称为“车祸现场”：
 
@@ -34,7 +34,7 @@ excerpt_separator: <!--more-->
   * 不要跟我说什么语音转文字，你自己试试你的语音转出文字来是什么德行。你自己心里没数吗？
   * 实在不行，我推荐用微信自带的或者任何输入法都带着的“语音转文字”输入功能，也就是你直接说话，转换为文字后发送给对方。
 
-![图片](https://uploader.shimo.im/f/xbcmPOALqQ8fiyki.png!thumbnail)
+![](/uploads/2019/11/03-voice-message.jpg)
 
 3. 不打招呼直接拉群的
   * 因为工作缘故，我经常需要拉群帮人做对接。
@@ -49,17 +49,19 @@ excerpt_separator: <!--more-->
   * 比如下面的截图是我刚刚测试的，从微信群中随便点击一个人的头像选择添加好友，申请信息是“Hi，I'm XXX from the group 'XXXXXX'. ”。
   * 这个好友申请有什么问题？首先没说清楚你是谁，加我要干啥。如果不是质量特别高的群（这个太罕见了），我跟你没啥关联，凭什么要接受你的好友申请？仅仅因为我们在一个群里吗？还不如直接忽略就好了。
   * 比较好的好友申请是什么样子的呢？简介地表示你是谁、加好友做什么就可以了，比如“ TGO 鲲鹏会赵新龙，邀请您参加下周六活动”“ TGO 鲲鹏会赵新龙，昨天活动见面聊过”。
-![图片](https://images.smcdn.cn/XXZ0MoKLNqQLbQG3/Screenshot_20191113_094319_com.tencent.mm.jpg!thumbnail)
+
+![](/uploads/2019/11/05-friend-request.jpg)
 
 
 6. 拼多多砍一刀、淘宝盖楼、转发微信小游戏的
   * 这种我简直直接想拿刀砍他、把盖楼的砖头呼他脸上。
 
-![图片](https://uploader.shimo.im/f/taIvGiRRNzkDtxVE.png!thumbnail)
+![](/uploads/2019/11/06-pinduoduo.png)
 
 7. 检测僵尸粉，直接删人
   * 如果说大部分的问题都是有当事人“非傻即坏”引发的，那这个绝对是当事人傻造成的。
-![图片](https://images.smcdn.cn/iGx1CuudmccJDBTr/Screenshot_20191113_103645.jpg!thumbnail)
+
+![](/uploads/2019/11/07-clear-your-zombie-friends.png)
 
 
 8. 微信聊天内容截图公开
