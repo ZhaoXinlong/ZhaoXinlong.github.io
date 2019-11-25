@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从Twitter的一张截图说起，为什么微信上有人就是傻叉
+title: 从Twitter的一张截图说起，为什么微信上有人就是大猪蹄子
 pid: 2019111301
 tags: [微信]
 excerpt_separator: <!--more-->
