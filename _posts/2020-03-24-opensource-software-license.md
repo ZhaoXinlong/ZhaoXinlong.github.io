@@ -134,7 +134,7 @@ BSD 最早是用于操作系统的名字，即 Berkeley Software Distribution。
 
 
 
-![图片](/uploads/2020/03/.jpeg)
+![图片](/uploads/2020/03/09-contrast-from-choosealicense.jpeg)
 
 
 开源协议中标注绿色为**允许，**表示允许进行这样的行为，否则可能表示不允许。
@@ -153,7 +153,10 @@ BSD 最早是用于操作系统的名字，即 Berkeley Software Distribution。
 1. 开源软件不仅仅是代码开源，还包含自由分发、技术中立、不得歧视等原则
 2. 开源软件许可证种类众多，可以分为宽松型 Permissive 如 BSD 和 MIT、严格型 Copyleft 如 GPL
 3. 每个人都可以制作和发行自己的开源软件许可证，就如制作自己的开源软件一样；同时 Perl、PHP 和 Python 等是有着自己的独有许可证的
-4. 如何选择开源软件许可证，可以简单的按照阮一峰提供的流程图，稍微复杂的按照 GitHub 给出的对比表格，或者自己研究许可证文本。
+4. 如何选择开源软件许可证，可以简单的按照阮一峰提供的流程图，稍微复杂的按照 GitHub 给出的对比表格，或者自己研究许可证文本
+
+![图片](/uploads/2020/03/10-summary.png)
+
 
 
 文中几张彩色图片引用自 WhiteSource 的报告[Open Source Licenses in 2020: Trends and Predictions](https://resources.whitesourcesoftware.com/blog-whitesource/top-open-source-licenses-trends-and-predictions)，点击查看此报告
