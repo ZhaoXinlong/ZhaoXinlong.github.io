@@ -6,6 +6,10 @@ tags: [IPO, AI]
 excerpt_separator: <!--more-->
 ---
 
+![图片](/uploads/2020/03/01-whale-up-the-water.png)
+
+2020 年 3 月摄于北京国际雕塑园
+
 
 3 月 25 日，旷视科技开源了深度学习框架天元 MegEngine。旷视科技是国内 AI 四小龙之一，在 2017 年完成 C 轮融资 4.6 亿美元，2019 年完成 D 轮融资 7.5 亿美元。据说员工中博士超过 200 位，保守估计这群博士的工资要超过 2 亿人民币。
 
@@ -13,7 +17,6 @@ excerpt_separator: <!--more-->
 
 人工智能是典型的烧钱不赚钱的行业。今天公众号不能不讲理（ID：jiang3dao4li3）就趁这个机会，通过 IPO 招股书，分析一下旷视科技这家公司。
 
-![图片](/uploads/2020/03/01-whale-up-the-water.png)
 
 <!--more-->
 

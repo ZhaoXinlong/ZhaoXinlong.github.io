@@ -6,11 +6,12 @@ tags: [开源, 官司]
 excerpt_separator: <!--more-->
 ---
 
+![图片](/uploads/2020/03/01-grassland.jpeg)
+
+2020 年 3 月摄于北京奥林匹克森林公园
+
 
 说起柚子（北京）科技有限公司，可能没多少人知道。要说 APICloud，那估计听说过的人就多得多了。APICloud在2018年完成了近亿元人民币的B轮融资，由复兴领头。
-
-
-![图片](/uploads/2020/03/01-grassland.jpeg)
 
 
 ![图片](/uploads/2020/03/02-youzi.png)
